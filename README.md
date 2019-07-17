@@ -1,4 +1,4 @@
-# push4me
+# simple-push
 
 push test
 
